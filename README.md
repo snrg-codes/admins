@@ -1,0 +1,2 @@
+# admins
+Adminlar uchun
